@@ -1,0 +1,199 @@
+{
+  "flights": [
+    {
+      "id": "FL001",
+      "segments": [
+        {
+          "from": {
+            "city": "Paris",
+            "airport": "Charles de Gaulle",
+            "code": "CDG",
+            "timezone": "Europe/Paris"
+          },
+          "to": {
+            "city": "Tokyo",
+            "airport": "Haneda",
+            "code": "HND",
+            "timezone": "Asia/Tokyo"
+          },
+          "departureTime": "2024-03-20T08:00:00Z",
+          "arrivalTime": "2024-03-21T04:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "FL002",
+      "segments": [
+        {
+          "from": {
+            "city": "New York",
+            "airport": "JFK",
+            "code": "JFK",
+            "timezone": "America/New_York"
+          },
+          "to": {
+            "city": "London",
+            "airport": "Heathrow",
+            "code": "LHR",
+            "timezone": "Europe/London"
+          },
+          "departureTime": "2024-03-22T14:30:00Z",
+          "arrivalTime": "2024-03-23T02:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "FL003",
+      "segments": [
+        {
+          "from": {
+            "city": "Dubai",
+            "airport": "Dubai International",
+            "code": "DXB",
+            "timezone": "Asia/Dubai"
+          },
+          "to": {
+            "city": "Singapore",
+            "airport": "Changi",
+            "code": "SIN",
+            "timezone": "Asia/Singapore"
+          },
+          "departureTime": "2024-03-25T23:15:00Z",
+          "arrivalTime": "2024-03-26T11:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "FL004",
+      "segments": [
+        {
+          "from": {
+            "city": "Los Angeles",
+            "airport": "LAX",
+            "code": "LAX",
+            "timezone": "America/Los_Angeles"
+          },
+          "to": {
+            "city": "Tokyo",
+            "airport": "Narita",
+            "code": "NRT",
+            "timezone": "Asia/Tokyo"
+          },
+          "departureTime": "2024-03-28T16:00:00Z",
+          "arrivalTime": "2024-03-29T06:30:00Z"
+        },
+        {
+          "from": {
+            "city": "Tokyo",
+            "airport": "Narita",
+            "code": "NRT",
+            "timezone": "Asia/Tokyo"
+          },
+          "to": {
+            "city": "Singapore",
+            "airport": "Changi",
+            "code": "SIN",
+            "timezone": "Asia/Singapore"
+          },
+          "departureTime": "2024-03-29T09:30:00Z",
+          "arrivalTime": "2024-03-29T16:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "FL005",
+      "segments": [
+        {
+          "from": {
+            "city": "Tokyo",
+            "airport": "Narita",
+            "code": "NRT",
+            "timezone": "Asia/Tokyo"
+          },
+          "to": {
+            "city": "Los Angeles",
+            "airport": "LAX",
+            "code": "LAX",
+            "timezone": "America/Los_Angeles"
+          },
+          "departureTime": "2024-03-30T10:30:00Z",
+          "arrivalTime": "2024-03-30T19:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "FL006",
+      "segments": [
+        {
+          "from": {
+            "city": "Sydney",
+            "airport": "Kingsford Smith",
+            "code": "SYD",
+            "timezone": "Australia/Sydney"
+          },
+          "to": {
+            "city": "Singapore",
+            "airport": "Changi",
+            "code": "SIN",
+            "timezone": "Asia/Singapore"
+          },
+          "departureTime": "2024-04-01T22:00:00Z",
+          "arrivalTime": "2024-04-02T04:30:00Z"
+        },
+        {
+          "from": {
+            "city": "Singapore",
+            "airport": "Changi",
+            "code": "SIN",
+            "timezone": "Asia/Singapore"
+          },
+          "to": {
+            "city": "London",
+            "airport": "Heathrow",
+            "code": "LHR",
+            "timezone": "Europe/London"
+          },
+          "departureTime": "2024-04-02T08:30:00Z",
+          "arrivalTime": "2024-04-02T15:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "FL007",
+      "segments": [
+        {
+          "from": {
+            "city": "San Francisco",
+            "airport": "International",
+            "code": "SFO",
+            "timezone": "America/Los_Angeles"
+          },
+          "to": {
+            "city": "New York",
+            "airport": "JFK",
+            "code": "JFK",
+            "timezone": "America/New_York"
+          },
+          "departureTime": "2024-04-05T14:00:00Z",
+          "arrivalTime": "2024-04-05T22:30:00Z"
+        },
+        {
+          "from": {
+            "city": "New York",
+            "airport": "JFK",
+            "code": "JFK",
+            "timezone": "America/New_York"
+          },
+          "to": {
+            "city": "Paris",
+            "airport": "Charles de Gaulle",
+            "code": "CDG",
+            "timezone": "Europe/Paris"
+          },
+          "departureTime": "2024-04-06T01:30:00Z",
+          "arrivalTime": "2024-04-06T14:45:00Z"
+        }
+      ]
+    }
+  ]
+}
